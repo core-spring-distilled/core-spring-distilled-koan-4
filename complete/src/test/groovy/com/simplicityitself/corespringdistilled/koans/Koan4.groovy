@@ -15,4 +15,4 @@ class Koan4 extends Specification {
         applicationContext != null;
         applicationContext.getBeanDefinitionCount() == 0;
     }
-}  
+}
